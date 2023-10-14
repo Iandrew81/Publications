@@ -1,6 +1,6 @@
 # 📚 Andres Villares's Academic Publications
 
-Welcome to Andres's Publications GitHub repository! This repository houses a collection of academic and professional publications authored or co-authored by Andrés Villares. These publications cover topics in Computational Physics and Astrophysics, showcasing research, insights, and contributions to the community.
+Welcome to Andres's Publications GitHub repository! This repository houses a collection of academic and professional publications authored or co-authored by Andrés Villares. These publications cover topics in Computational Physics and Astrophysics.
 
 ## Contents:
 
